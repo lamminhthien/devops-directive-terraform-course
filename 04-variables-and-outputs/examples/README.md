@@ -1,5 +1,7 @@
 [Understanding the Difference: terraform.tfvars vs variables.tf in Terraform](https://saturncloud.io/blog/understanding-the-difference-terraformtfvars-vs-variablestf-in-terraform/#:~:text=tfvars%20and%20variables.tf%20is,assign%20values%20to%20those%20variables.)
 
+[Output variable](https://spacelift.io/blog/terraform-output)
+
 # Variables
 
 ## Variable block
